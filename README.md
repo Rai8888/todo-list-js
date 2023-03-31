@@ -1,2 +1,2 @@
 # todo-list-js
-## Deploy link: 
+## Deploy link: https://raiska8.github.io/todo-list-js/
